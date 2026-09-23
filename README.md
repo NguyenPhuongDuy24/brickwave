@@ -10,4 +10,4 @@ Brickwave hiện mới chỉ được kiểm tra trên TrimUI Brick Pro chạy S
 
 ## 📥 Tải xuống
 
-👉 [Tải phiên bản Brickwave mới nhất](https://github.com/NguyenPhuongDuy24/brickwave/releases/latest)
+👉 [Tải phiên bản Brickwave mới nhất](https://github.com/NguyenPhuongDuy24/brickwave/releases/download/Brickwave-00.4.1/Brickwave-00.4.1.zip)
