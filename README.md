@@ -7,3 +7,7 @@ Brickwave hiện mới chỉ được kiểm tra trên TrimUI Brick Pro chạy S
 🚧 Dự án đang trong quá trình phát triển và tối ưu 
 
 **Lưu ý:** Brickwave là dự án độc lập, không phải ứng dụng chính thức của SoundCloud và không có liên kết với SoundCloud.
+
+## 📥 Tải xuống
+
+👉 [Tải phiên bản Brickwave mới nhất](https://github.com/NguyenPhuongDuy24/brickwave/releases/latest)
