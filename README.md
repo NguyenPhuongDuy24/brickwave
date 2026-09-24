@@ -44,5 +44,5 @@ SD_CARD:\Apps\Brickwave\brickwave.png
 ```
 
 8. Eject thẻ nhớ an toàn và lắp lại vào Brick.
-9. Khởi động máy, vào **Apps → Brickwave**.
+9. Khởi động máy
 10. Kết nối Wi-Fi, quét mã QR và đăng nhập trên trang SoundCloud chính thức.
