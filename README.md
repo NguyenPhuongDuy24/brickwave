@@ -26,8 +26,8 @@ SD_CARD:\Apps\Brickwave\bin\brickwave
 SD_CARD:\Apps\Brickwave\brickwave.png
 ```
 
-5. Tháo thẻ an toàn, lắp lại vào TrimUI Brick Pro và mở Brickwave trong MainUI.
-6. Kết nối Wi-Fi, quét mã QR và đăng nhập trên trang SoundCloud chính thức.
+5. Tháo thẻ an toàn, lắp lại vào TrimUI Brick Pro.
+6. Kết nối Wi-Fi, vào app quét mã QR và đăng nhập trên trang SoundCloud chính thức.
 
 Khi cập nhật, giữ lại `Apps/Brickwave/data` để bảo toàn phiên đăng nhập và cài đặt.
 
@@ -42,8 +42,8 @@ SD_CARD:\Tools\tg5040\Brickwave.pak\launch.sh
 SD_CARD:\Tools\tg5040\Brickwave.pak\bin\brickwave
 ```
 
-4. Tháo thẻ an toàn, khởi động NextUI, vào **Tools** và chọn **Brickwave**.
-5. Kết nối Wi-Fi, quét mã QR và đăng nhập trên trang SoundCloud chính thức.
+4. Tháo thẻ an toàn, khởi động NextUI, Kết nối Wi-Fi.
+5. Vào **Tools** và chọn **Brickwave**. , quét mã QR và đăng nhập trên trang SoundCloud chính thức.
 
 Dữ liệu đăng nhập và cài đặt nằm tại `.userdata/shared/BrickwaveNextUI/data`; cache ảnh nằm tại `.userdata/shared/BrickwaveNextUI/artwork-cache`. Cập nhật Tool Pak không ghi đè các thư mục này.
 
