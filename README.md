@@ -70,4 +70,3 @@ Khi bàn phím ảo đang mở, dùng D-pad để chọn phím, A để nhập v
 - Cần kết nối mạng để đăng nhập, tải dữ liệu và phát nhạc.
 - Brickwave không lưu mật khẩu SoundCloud trên thiết bị.
 - Bản NextUI là Tool Pak độc lập cho nền tảng `tg5040` và thiết bị `brickpro`; chưa có xác nhận chạy thực tế trên NextUI.
-- Hãy báo lỗi Brickwave tại repository này, không gửi lỗi của ứng dụng bên thứ ba tới nhóm phát triển NextUI.
